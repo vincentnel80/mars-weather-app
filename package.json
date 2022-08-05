@@ -16,5 +16,8 @@
   "dependencies": {
     "gh": "^2.8.9",
     "pages": "^0.0.16"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
