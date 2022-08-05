@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/vincentnel80/mars-weather-app/issues"
   },
-  "homepage": "https://vincentnel80.github.io/mars-weather-updates",
+  "homepage": "https://vincentnel80.github.io/mars-weather-app",
   "dependencies": {
     "gh": "^2.8.9",
     "pages": "^0.0.16"
