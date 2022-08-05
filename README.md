@@ -62,6 +62,7 @@ As more data from a particular sol is downlinked from various satellites (someti
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: images/screenshot.png
 [JavaScript]: https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Html5]: https://img.shields.io/badge/html5-ff8717?style=for-the-badge&logo=html5&logoColor=white
